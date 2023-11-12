@@ -1,0 +1,3 @@
+Ecrire un programme qui demande à l'u lisateur un nombre ener > 1.
+ Le programme calcule la somme de tous les nombres eners entre 1 et ce nombre et affiche le résultat.
+ Exemple : pour le nombre 5, le programme calcule 1 + 2 + 3 + 4 + 5 et affiche donc 15.
